@@ -4,7 +4,7 @@ Simply loads the [jQuery TouchSwipe plugin](http://labs.rampinteractive.co.uk/to
 That&rsquo;s all.
 
 See also 
-* [TouchSwipe Github repository](https://github.com/mattbryson/TouchSwipe-Jquery-Plugin) 
+* [TouchSwipe GitHub repository](https://github.com/mattbryson/TouchSwipe-Jquery-Plugin) 
 * [Typesetter Home](http://www.typesettercms.com)
 * [Typesetter on GitHub](https://github.com/Typesetter/Typesetter)
 
